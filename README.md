@@ -21,7 +21,7 @@ This repository contains low level design (LLD) resources to improve object orie
 - [Relationships in UML](https://blog.visual-paradigm.com/what-are-the-six-types-of-relationships-in-uml-class-diagrams/)
 
 ## Low Level Design Interview Problems
-### Easy
+### Easy Level
 - [Design Parking Lot](problems/parking-lot.md)
 - [Design a Vending Machine](https://medium.com/swlh/vending-machine-design-a-state-design-pattern-approach-5b7e1a026cd2)
 - [Design Stack Overflow](problems/stack-overflow.md)
@@ -29,7 +29,7 @@ This repository contains low level design (LLD) resources to improve object orie
 - [Design Coffee Vending Machine](problems/coffee-vending-machine.md)
 - [Design Traffic Signal Control System](problems/traffic-signal.md)
 - [Design a Task Management System](problems/task-management-system.md)
-### Medium
+### Medium Level
 - [Design Pub Sub System](problems/pub-sub-system.md)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
 - [Design Car Rental System](problems/car-rental-system.md)
@@ -45,7 +45,7 @@ This repository contains low level design (LLD) resources to improve object orie
 - [Design an Online Auction System](problems/online-auction-system.md)
 - [Design a Vehicle Rental System:](problems/vehicle-rental-system.md)
 - [Design a Concert Ticket Booking System](problems/vehicle-rental-system.md)
-### Hard
+### Hard Level
 - [Design Movie Ticket Booking System](https://www.youtube.com/watch?v=CC7DwkQOsS0&list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd&index=8)
 - [Design Splitwise](https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6)
 - [Design a Snake and Ladder game](https://workat.tech/machine-coding/editorial/how-to-design-snake-and-ladder-machine-coding-ehskk9c40x2w)
